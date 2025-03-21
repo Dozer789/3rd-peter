@@ -21,12 +21,16 @@ export default function Home() {
           </ul>
         </div>
       </nav>
-      
+
       <main className="flex flex-col gap-8 max-w-4xl mx-auto w-full py-10">
         {/* Introductory Text */}
         <section className="text-base md:text-lg leading-7 text-gray-800 bg-[#fff8dc] p-6 border border-[#d3c8a3] rounded-lg shadow-sm mx-4 md:mx-0">
           <p>
-            Most people don&apos;t know that a Third Epistle of Peter exists, yet it was once included among the texts of the King James Version&apos;s Apocrypha. This lesser-known epistle, though not part of the canonical Bible, speaks to the scattered elect with warnings and encouragement for the faithful. Below is the full text of this remarkable book, presented for reflection and study.
+            Most people don&apos;t know that a Third Epistle of Peter exists, yet it was once included among the texts of the King James Version&apos;s Apocrypha. This lesser-known epistle, though not part of the canonical Bible today, speaks to the scattered elect with warnings and encouragement for the faithful.
+<br/><br/>
+            Addressed specifically to the Bereans, a people known for their diligence in searching the Scriptures, 3rd Peter exhorts them to stand firm against deception, to test all teachings, and to guard against those who would corrupt the truth. With vivid imagery and striking admonitions, the epistle warns of enchanters, deceivers, and false brethren who seek to pervert the gospel. Yet, it also offers hope, reminding the faithful that the Lord shall gather His own and that His promises are sure.
+<br/><br/>
+            Below is the full text of this remarkable book, presented for reflection and study.
           </p>
         </section>
 
