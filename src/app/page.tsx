@@ -26,7 +26,7 @@ export default function Home() {
         {/* Introductory Text */}
         <section className="text-base md:text-lg leading-7 text-gray-800 bg-[#fff8dc] p-6 border border-[#d3c8a3] rounded-lg shadow-sm mx-4 md:mx-0">
           <p>
-            Most people don't know that a Third Epistle of Peter exists, yet it was once included among the texts of the King James Version's Apocrypha. This lesser-known epistle, though not part of the canonical Bible, speaks to the scattered elect with warnings and encouragement for the faithful. Below is the full text of this remarkable book, presented for reflection and study.
+            Most people don&apos;t know that a Third Epistle of Peter exists, yet it was once included among the texts of the King James Version&apos;s Apocrypha. This lesser-known epistle, though not part of the canonical Bible, speaks to the scattered elect with warnings and encouragement for the faithful. Below is the full text of this remarkable book, presented for reflection and study.
           </p>
         </section>
 
@@ -57,8 +57,8 @@ export default function Home() {
             <div className="space-y-4 leading-relaxed">
               <p><sup className="text-[#8b4513] font-semibold mr-1">1</sup>Beloved, the hour is dark, and many walk as fools, having eyes that see not and ears that hear not. Be ye not counted among them.</p>
               <p><sup className="text-[#8b4513] font-semibold mr-1">2</sup>Ye have heard that in the beginning the Lord formed man from the dust; yet I say unto you, there are things which the fathers have not spoken, for the fullness of knowledge is not given unto all.</p>
-              <p><sup className="text-[#8b4513] font-semibold mr-1">3</sup>Take note and watch, that you partake not in the vile and deceitful practices of the enchanters. They fill up on vain words of busy-bodies and gossips; they forbid the partaking of our Lord's supper; and they seduce the weak in mind to add to the scriptures.</p>
-              <p><sup className="text-[#8b4513] font-semibold mr-1">4</sup>Such people are deserving of the Lord's wrath, and they shall not be spared in the coming judgment and fire. Their tongues are as the forked tongues of serpents, and their hands work mischief in the dark. They shall call upon the mountains to cover them, yet there shall be no hiding place.</p>
+              <p><sup className="text-[#8b4513] font-semibold mr-1">3</sup>Take note and watch, that you partake not in the vile and deceitful practices of the enchanters. They fill up on vain words of busy-bodies and gossips; they forbid the partaking of our Lord&apos;s supper; and they seduce the weak in mind to add to the scriptures.</p>
+              <p><sup className="text-[#8b4513] font-semibold mr-1">4</sup>Such people are deserving of the Lord&apos;s wrath, and they shall not be spared in the coming judgment and fire. Their tongues are as the forked tongues of serpents, and their hands work mischief in the dark. They shall call upon the mountains to cover them, yet there shall be no hiding place.</p>
               <p><sup className="text-[#8b4513] font-semibold mr-1">5</sup>Behold, the waters bear witness, and the earth remembereth that which man hath forgotten. In the days of old, the Lord overthrew the cities of the plain for their abominations, and shall He not do so again?</p>
               <p><sup className="text-[#8b4513] font-semibold mr-1">6</sup>The just shall walk in light, but the wicked shall stumble at noonday. The Lord shall purge His house, and those who love the truth shall shine as the stars of heaven.</p>
               <p><sup className="text-[#8b4513] font-semibold mr-1">7</sup>Therefore, hold fast to the faith which was once delivered unto the saints, and be not moved by the cunning words of deceivers.</p>
