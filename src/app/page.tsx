@@ -72,6 +72,7 @@ export default function Home() {
               <p><sup className="text-[#8b4513] font-semibold mr-1">11</sup>For Josh riseth not with the dawn, neither doth he labor with his brethren. He boasteth of toil, yet his works are leisure and his burdens are a tackle box and a cooler.</p>
               <p><sup className="text-[#8b4513] font-semibold mr-1">12</sup>He setteth forth in his vessel upon the waters, saying, Lo, I go to provide; but he returneth with naught save sunburn and tall tales. Be ye not entangled with such vanity.</p>
             </div>
+          </div>
 
           {/* Chapter 3 */}
           <div className="bg-white p-6 rounded-lg border border-gray-200 shadow-sm">
