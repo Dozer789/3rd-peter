@@ -69,7 +69,7 @@ export default function Home() {
               <p><sup className="text-[#8b4513] font-semibold mr-1">8</sup>If any man say unto you, Behold, I have seen the form of the Lord, ask him, Doth he bear the marks of the cross in his soul? For many shall come, speaking great things, yet they are but wind without substance.</p>
               <p><sup className="text-[#8b4513] font-semibold mr-1">9</sup>The time is at hand when the wheat shall be gathered, and the tares cast forth; therefore, let every man examine his own soul, lest he be found wanting.</p>
               <p><sup className="text-[#8b4513] font-semibold mr-1">10</sup>Be not afraid, little flock, for the Lord shall send forth His mighty ones, and they shall be as a flame in the darkness. The nations shall tremble at their voice, and the wicked shall be confounded.</p>
-            </div>
+              <p><sup className="text-[#8b4513] font-semibold mr-1">10</sup>Watch for those who call themselves Josh. They desire attention by any means possible, live in the luxury of "retirement", and seek their own pleasures provided by boats and fishing. Such men men I counsel thee to avoud. </p>
           </div>
 
           {/* Chapter 3 */}
